@@ -28,4 +28,20 @@ Step 4. Run data transformation sequences and load them back to data lake transf
 
 
 
+Step 5. Start up Synapse Analytics new instance and load all the tables from transformed-data container:
+
+![image](https://github.com/EduAFernandes/Azure-Databricks-Synapse-Spark-Pipeline/assets/78389579/0c0e69c4-603e-473f-ae4a-7820a77c4fea)
+
+
+Step 6. Query tables to make sure everything has been loaded, then proceed to create relationships and metrics:
+
+![image](https://github.com/EduAFernandes/Azure-Databricks-Synapse-Spark-Pipeline/assets/78389579/5d654abf-0029-4a78-b570-70f2e1795b87)
+
+![image](https://github.com/EduAFernandes/Azure-Databricks-Synapse-Spark-Pipeline/assets/78389579/73d3d1be-ffc7-43b6-a871-8900e05723c6)
+
+
+
+
+
+
 
