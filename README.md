@@ -1,6 +1,9 @@
 # Azure-Databricks-Synapse-Spark-Pipeline
 Data pipeline using Azure Data Factory, Lake gen2, Databricks, Spark and Synapse Analytics
 
+ -- WHEN USING AZURE ENVIRONMENT REMEMBER TO HIT THE PUBLISH BUTTOM AFTER EVERY CHANGE YOU'D LIKE TO MAKE -- 
+
+
 Raw data >> Data Ingestion (Azure data Factory) >> Data Lake (Azure Lake Gen 2) >> Transformation (AzureDataBricks, Spark) >> Analysis (Azure Synapse Analytics) ::
 
 ~ Assuming we've already successfully signed into Azure with an account
